@@ -125,4 +125,3 @@ TCSNP is a next-generation protocol that combines decentralization, cryptographi
   - Data is stored encrypted on Service Nodes with geographic distribution.  
   - Decryption keys are transmitted via Garlic Messaging.  
 
----
