@@ -39,7 +39,7 @@ TCSNP — протокол нового поколения, объединяющ
 
 #### 2.3.2. Прямая коммуникация обычных нод
 
-![](https://i.imgur.com/eseJhJz.png)
+![](https://i.imgur.com/GbIqJtq.png)
 
 ---
 
